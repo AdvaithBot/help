@@ -2,6 +2,7 @@
 
 ## Help articles
 * [Rhymes Command Word Flags](wordflags)
+* [Slowmode Compatibility](slowmode)
 
 ## More
 [AdvaithBot Website](https://advaithbot.com)
