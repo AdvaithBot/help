@@ -1,6 +1,7 @@
 ---
 permalink: /vars
 description: Custom Command variables for AdvaithBot
+---
 
 Custom command variables (BETA):
 
